@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>JsonList Tests</title>
+    </head>
+    <body>
+        <script src="../main.js"></script>
+
+        <script>
+            let askingform = document.getElementById("askingform")
+            
+            askingform.addEventListener("submit", (e) => {
+                e.preventDefault()
+
+                let idbutton = document.getElementById("id")
+                let askedid = idbutton.value
+                console.log(askedid)
+
+                let test = document.getElementById("test")
+                test.innerHTML = askedid
+            })
+        </script>
+
+        <form id="askingform">
+            <input type="text" name="" id="id" placeholder="Write the id in here">
+            <input type="submit" value="Get" id="test">
+        </form>
+
+        <a id="testa"></a>
+    </body>
+</html>
