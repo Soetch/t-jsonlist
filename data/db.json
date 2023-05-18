@@ -4,19 +4,33 @@
             "title": "What is your favorite color?",
             "jptitle": "好きな色はなんですか？",
             "hiratitle": "すきないろはなんですか？",
-            "romtitle": "sukina iro ha nann desuka?"
+            "romtitle": "sukina iro ha nann desuka?",
+            "tag": "1"
         },
         "2": {
             "title": "What is your favorite anime?",
             "jptitle": "好きなアニメはなんですか？",
             "hiratitle": "すきなあにめはなんですか？",
-            "romtitle": "sukina anime ha nann desuka?"
+            "romtitle": "sukina anime ha nann desuka?",
+            "tag": "1"
         },
         "3": {
             "title": "What is your favorite food?",
             "jptitle": "好きな食べ物はなんですか？",
             "hiratitle": "すきなたべものはなんですか？",
-            "romtitle": "sukina tabemono ha nann desuka?"
+            "romtitle": "sukina tabemono ha nann desuka?",
+            "tag": "1"
         }
+    },
+    "tags": {
+        "1": "wholesome",
+        "2": "gaming",
+        "3": "music",
+        "4": "school",
+        "5": "work",
+        "6": "relationships",
+        "7": "lewd",
+        "8": "intoxicated",
+        "9": "illegal"
     }
 }
