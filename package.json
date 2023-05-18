@@ -1,0 +1,19 @@
+{
+  "name": "t_jsonlist",
+  "version": "1.0.0",
+  "description": "Get data from a JSON file and get it into place.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Soetch/t-jsonlist.git"
+  },
+  "author": "Marceau \"Soetch\" Malégeant",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Soetch/t-jsonlist/issues"
+  },
+  "homepage": "https://github.com/Soetch/t-jsonlist#readme"
+}
