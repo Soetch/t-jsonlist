@@ -1,22 +1,22 @@
 {
     "topics": {
         "1": {
-            "title": "",
-            "jptitle": "",
-            "hiratitle": "",
-            "romtitle": ""
+            "title": "What is your favorite color?",
+            "jptitle": "好きな色はなんですか？",
+            "hiratitle": "すきないろはなんですか？",
+            "romtitle": "sukina iro ha nann desuka?"
         },
         "2": {
-            "title": "",
-            "jptitle": "",
-            "hiratitle": "",
-            "romtitle": ""
+            "title": "What is your favorite anime?",
+            "jptitle": "好きなアニメはなんですか？",
+            "hiratitle": "すきなあにめはなんですか？",
+            "romtitle": "sukina anime ha nann desuka?"
         },
         "3": {
-            "title": "",
-            "jptitle": "",
-            "hiratitle": "",
-            "romtitle": ""
+            "title": "What is your favorite food?",
+            "jptitle": "好きな食べ物はなんですか？",
+            "hiratitle": "すきなたべものはなんですか？",
+            "romtitle": "sukina tabemono ha nann desuka?"
         }
     }
 }
